@@ -172,6 +172,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.env.bak
 
 # Spyder project settings
 .spyderproject
@@ -231,4 +232,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-.env.bak
+# google-credentials.json
+gen-lang-client-0767762328-5af536fa18ba.json
